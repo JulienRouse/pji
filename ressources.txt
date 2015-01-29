@@ -1,0 +1,12 @@
+
+Lien vers le pdf du driver audio de NetBSD:
+http://www.metasepi.org/doc/metasepi-icfp2014.pdf
+
+présentation du driver(merci david):
+https://www.youtube.com/watch?v=E30ZvEVExI0
+https://www.youtube.com/watch?v=XEYcR5RG5cA
+
+
+Lien vers JHC webpage:
+http://repetae.net/computer/jhc/
+
