@@ -11,6 +11,5 @@ Lien vers JHC webpage:
 http://repetae.net/computer/jhc/
 
 
-
 OS : netBSD 6.1.2
 http://www.netbsd.org/releases/formal-6/NetBSD-6.1.2.html
