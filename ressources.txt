@@ -13,3 +13,10 @@ http://repetae.net/computer/jhc/
 
 OS : netBSD 6.1.2
 http://www.netbsd.org/releases/formal-6/NetBSD-6.1.2.html
+
+
+FFi:
+http://www.stephendiehl.com/what/#ffi
+http://book.realworldhaskell.org/read/interfacing-with-c-the-ffi.html
+https://gist.github.com/ijt/966037
+http://en.wikibooks.org/wiki/Haskell/FFI
